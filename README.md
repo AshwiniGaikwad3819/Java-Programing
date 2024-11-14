@@ -1,2 +1,0 @@
-# Java-Programing
-Git Repository
